@@ -47,4 +47,6 @@ This demonstrates a simple and basic Solidity contract for testing variable upda
    - Use the `addInfo` function to update `hey` and `no` variables.
    - Check the updated values using the automatically generated getter functions (`hey` and `no`).
 
-## Tutorial For a step-by-step video tutorial, watch [this video by Daulat Hussain](https://youtu.be/9liQs-h8hB0?si=GAmPEWyCYKZqQL8R).
+### Tutorial
+
+For a step-by-step tutorial, watch [this video by Daulat Hussain](https://youtu.be/9liQs-h8hB0?si=GAmPEWyCYKZqQL8R).
