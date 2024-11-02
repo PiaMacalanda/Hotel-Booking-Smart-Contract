@@ -41,9 +41,10 @@ This demonstrates a simple and basic Solidity contract for testing variable upda
    - Navigate to the "Deploy & Run Transactions" tab.
    - Select your contract (`FirstContract`) from the dropdown.
    - Click the "Deploy" button.
-
+   - 
 6. **Interact with the Contract**:
    - After deploying, you'll see your contract instance under "Deployed Contracts".
    - Use the `addInfo` function to update `hey` and `no` variables.
    - Check the updated values using the automatically generated getter functions (`hey` and `no`).
 
+## Tutorial For a step-by-step video tutorial, watch [this video by Daulat Hussain](https://youtu.be/9liQs-h8hB0?si=GAmPEWyCYKZqQL8R).
